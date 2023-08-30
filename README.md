@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Fix TypeError in check_cfg() (#9245)
