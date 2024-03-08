@@ -1,1 +1,1 @@
-add yolov10
+Update CITATION.cff with cffinit corrections (#8658)
