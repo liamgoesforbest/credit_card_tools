@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Add new @Retry() decorator (#7854)
